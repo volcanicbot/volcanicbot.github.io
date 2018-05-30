@@ -66,10 +66,18 @@ article {
 
 th {
   height: 150%;
-  width: 125%;
+  width: 100%;
 }
 
 td {
   height: 150%;
-  width: 125%;
+  width: 100%;
 };
+
+tr {
+  width: 110%
+}
+
+table {
+  width: 110%
+}
