@@ -11,3 +11,9 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
+
+.direct-middle {
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
