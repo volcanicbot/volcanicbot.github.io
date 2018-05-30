@@ -60,4 +60,16 @@ article {
   width: 40%; 
   margin: 0 auto; 
   color: #444; 
+}
+
+/* Tables */
+
+th {
+  height: 150%;
+  width: 150%;
+}
+
+td {
+  height: 150%;
+  width: 150%;
 };
